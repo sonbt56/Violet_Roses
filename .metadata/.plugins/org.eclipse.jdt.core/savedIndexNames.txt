@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\wind\Documents\GitHub\Violet_Roses\.metadata\.plugins\org.eclipse.jdt.core
+2460358144.index
+4249774650.index
+438288270.index
+4198180012.index
+2330812641.index
